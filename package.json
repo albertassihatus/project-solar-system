@@ -1,5 +1,4 @@
 {
-  "homepage": "http://albertassihatus.github.io/solar-system/",
   "name": "solar-system",
   "version": "0.1.0",
   "private": true,
@@ -44,8 +43,8 @@
     "@testing-library/dom": "^8.1.0",
     "@testing-library/user-event": "^12.8.3",
     "eslint": "^7.32.0",
+    "eslint-config-trybe-frontend": "^1.2.3",
     "eslint-plugin-sonarjs": "^0.10.0",
-    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^9.0.3",

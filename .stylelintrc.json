@@ -94,6 +94,12 @@
                 "except": [
                     "after-single-line-comment"
                 ]
+            },
+            {
+                "extends": [
+                  "stylelint-config-standard-scss",
+                  "stylelint-config-prettier-scss"
+                ]
             }
         ],
         "selector-attribute-brackets-space-inside": "always",
